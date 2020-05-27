@@ -1,25 +1,24 @@
 h2 {
   font-family: 'Baloo Da 2';font-size: 22px;
-  background-color: #9dbac9;
   color: #ffffff;
 }
 h1 {
   font-family: 'Baloo Da 2';font-size: 22px;
-  background-color: #9dbac9;
   color: #ffffff;
   
     border-radius: 8px;       
 }
 body {
+  text-align: center;
   background-image: url("space.jpg");
-  
 }
 p {
   font-family: 'Baloo Da 2';font-size: 22px;
-  color: #ffffff;
+  color: white;
+  background-color: black;
 }
 .navigator a:hover {
-  background-color: #111111;
+  background-color: #ffffff;
   color: #ffffff;
   width: auto;
   height: auto;
@@ -32,7 +31,7 @@ p {
   border-color: #ffffff;
   display: flex;
   flex-wrap: center;
-  background-color: #9dbac9;
+  
   
  
 }.navigator > div {
@@ -45,4 +44,3 @@ p {
   padding: 5px;
   
 }
-
