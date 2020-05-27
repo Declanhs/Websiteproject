@@ -19,7 +19,7 @@ p {
 }
 .navigator a:hover {
   background-color: #ffffff;
-  color: #ffffff;
+  color:black;
   width: auto;
   height: auto;
 
@@ -35,7 +35,7 @@ p {
   
  
 }.navigator > div {
-  background-color: #9dbac9;
+  
   margin: auto; 
   line-height: auto;
   font-size: auto;
